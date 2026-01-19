@@ -150,7 +150,7 @@ docker-compose up -d
 ## 📌 Status do Projeto
 
 ✔️ Backend completo
-✔️ Arquitetura robusta
-✔️ Pronto para evolução e produção
-
+✔️Arquitetura robusta
+ Pronto para evolução e produção
+Falta implementar algumas funcionalidades de segurança e autenticação
 ---
